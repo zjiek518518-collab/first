@@ -32,7 +32,7 @@ while True:
         print("请输入 1 到 100 之间的数字。")
         continue
 
-    
+    count += 1
 
     if guess > answer:
         print("大了！")
